@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marks">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="weight">
+        <item>Select Weight</item>
+        <item>Kg</item>
+        <item>lbs</item>
+
+    </string-array>
+    <string-array name="height">
+
+        <item>Select Height</item>
+        <item>Meters</item>
+        <item>Feet/Inch</item>
+
+    </string-array>
+    <string-array name="states">
+        <item>Select State</item>
+        <item>Andhra Pradesh</item>
+        <item>Arubachal Pradesh</item>
+        <item>Bihar</item>
+        <item>Chandigar</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Select City</item>
+        <item>Hyderabad</item>
+        <item>Visakhapatnam</item>
+        <item>Kakinada</item>
+        <item>Tirupathi</item>
+    </string-array>
+</resources>

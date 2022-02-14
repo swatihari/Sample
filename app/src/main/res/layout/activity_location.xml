@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#F10628">
+
+    <ImageView
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:paddingBottom="120dp"
+        android:src="@color/red" />
+
+    <TextView
+        android:id="@+id/tvLat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="latitudes"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:textColorHighlight="#20A1DC"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/tvLon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="longitudes"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:textAlignment="center"/>
+
+
+</LinearLayout>

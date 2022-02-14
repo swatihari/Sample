@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.swathi.swathitest">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SwathiTest">
+
+        <activity
+            android:name=".MyTask"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MyActivity3" />
+       <activity android:name=".SimpleCalculator" />
+        <activity android:name=".BMI" />
+        <activity android:name=".Grading" />
+        <activity android:name=".HomeScreen_1" />
+        <activity android:name=".LifeCycleActivity" />
+        <activity android:name=".MyCardetails" />
+        <activity android:name=".ServiceActivity" />
+        <activity android:name=".Broadcast" />
+        <activity android:name=".BroadcastStatic" />
+        <activity android:name=".Storage" />
+        <activity android:name=".BroadCastActivity" />
+        <activity android:name=".SharedPreference" />
+        <activity android:name=".Popup" />
+        <activity android:name=".ClickPopup" />
+        <activity android:name=".MyThread" />
+        <activity android:name=".MyLocation"/>
+        <activity android:name=".Fragment" />
+
+        <service android:name=".MyService"></service>
+
+    </application>
+
+</manifest>

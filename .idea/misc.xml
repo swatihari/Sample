@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/border.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/oval.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_alert_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_bmi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_broadcast.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_broadcast_static.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_cardeatails1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_cardetails.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_cardetails1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_firstfragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_grading.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_gridview1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_homescreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_lifecycle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_location.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_mainpop.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_mybrodcast.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_myservice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_secondfragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sharedpreferences.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_simplecalculator.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_storage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_thread.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyApplication/app/src/main/res/layout/simple_spinner_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
